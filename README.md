@@ -11,7 +11,7 @@ Requirements
 pip install biopython
 
 ## Clone the repository
-git clone https://github.com/ritae9/DSSP_implt.git
+git clone https://github.com/ritae9/DSSP_impl.git
 
 cd DSSP_implt
 
