@@ -19,7 +19,9 @@ Cet algorithme n'hydrate pas les protéines, donc il n'ajoute pas les hydrogène
 ## Run the program
 ### Examples
 Python script.py 1bta.pdb A
+
 The first argument is the protein in question and the second argument is the string in question. The first argument must be a pdb file for the algorithm to work.
+
 Le premier argument est la protéine en question et le deuxième argument est la chaîne en question. Le premier argument doit être un fichier pdb pourque l'algorithme fonctionne.
 
 ## Reference
