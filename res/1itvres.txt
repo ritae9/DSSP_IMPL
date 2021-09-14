@@ -1,0 +1,209 @@
+==== Secondary Structure Assignment using DSSP method ====
+DATE		2021-09-14
+REFERENCE	W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637
+PROTEINE	1itv
+CHAINE		A
+
+Secondary structures assignment
+ 1.helices (Helice) 
+ 2. feuillet β parallèle  (B para) 
+ 3. feuillet β anti-parallèle (B anti) 
+ 4. n-turns (Turn) 
+ 5. coil (Coil) 
+ 
+RESIDUE AA STRUCTURE
+ASP	1	Helice 
+ASP	2	Helice 
+ALA	3	Helice 
+CYS	4	Helice 
+ASN	5	Helice 
+VAL	6	Coil 
+ASN	7	Coil 
+ILE	8	Coil 
+PHE	9	Coil 
+ASP	10	B anti 
+ALA	11	B anti 
+ILE	12	B anti 
+ALA	13	Coil 
+GLU	14	Turn 
+ILE	15	Coil 
+GLY	16	Coil 
+ASN	17	Turn 
+GLN	18	B anti 
+LEU	19	B anti 
+TYR	20	B anti 
+LEU	21	B anti 
+PHE	22	Turn 
+LYS	23	Coil 
+ASP	24	B anti 
+GLY	25	B anti 
+LYS	26	B anti 
+TYR	27	B anti 
+TRP	28	B anti 
+ARG	29	B anti 
+PHE	30	Coil 
+SER	31	Coil 
+GLU	32	Coil 
+GLY	33	Coil 
+ARG	34	Coil 
+GLY	35	Coil 
+SER	36	Coil 
+ARG	37	Coil 
+PRO	38	B anti 
+GLN	39	Coil 
+GLY	40	Coil 
+PRO	41	B anti 
+PHE	42	B anti 
+LEU	43	B anti 
+ILE	44	Helice 
+ALA	45	Helice 
+ASP	46	Helice 
+LYS	47	Helice 
+TRP	48	Coil 
+PRO	49	Coil 
+ALA	50	Turn 
+LEU	51	Coil 
+PRO	52	Coil 
+ARG	53	Coil 
+LYS	54	Coil 
+LEU	55	Coil 
+ASP	56	B anti 
+SER	57	B anti 
+VAL	58	B anti 
+PHE	59	Coil 
+GLU	60	Turn 
+GLU	61	Coil 
+PRO	62	Coil 
+LEU	63	Coil 
+SER	64	Turn 
+LYS	65	Coil 
+LYS	66	B anti 
+LEU	67	B anti 
+PHE	68	B anti 
+PHE	69	B anti 
+PHE	70	Turn 
+SER	71	Coil 
+GLY	72	B anti 
+ARG	73	B anti 
+GLN	74	B anti 
+VAL	75	B anti 
+TRP	76	B anti 
+VAL	77	B anti 
+TYR	78	Turn 
+THR	79	Coil 
+GLY	80	Coil 
+ALA	81	Turn 
+SER	82	Coil 
+VAL	83	B anti 
+LEU	84	Coil 
+GLY	85	Coil 
+PRO	86	B anti 
+ARG	87	B anti 
+ARG	88	B anti 
+LEU	89	Helice 
+ASP	90	Helice 
+LYS	91	B anti 
+LEU	92	Helice 
+GLY	93	Helice 
+LEU	94	Helice 
+GLY	95	Coil 
+ALA	96	Coil 
+ASP	97	Turn 
+VAL	98	Coil 
+ALA	99	Coil 
+GLN	100	Coil 
+VAL	101	B anti 
+THR	102	Coil 
+GLY	103	Coil 
+ALA	104	B anti 
+LEU	105	Coil 
+ARG	106	Coil 
+SER	107	Turn 
+GLY	108	Coil 
+ARG	109	B anti 
+GLY	110	B anti 
+LYS	111	B anti 
+MET	112	B anti 
+LEU	113	B anti 
+LEU	114	Coil 
+PHE	115	Turn 
+SER	116	Coil 
+GLY	117	B anti 
+ARG	118	B anti 
+ARG	119	B anti 
+LEU	120	B anti 
+TRP	121	B anti 
+ARG	122	B anti 
+PHE	123	B anti 
+ASP	124	B anti 
+VAL	125	Coil 
+LYS	126	Coil 
+ALA	127	Helice 
+GLN	128	Helice 
+MET	129	B anti 
+VAL	130	Helice 
+ASP	131	Helice 
+PRO	132	Helice 
+ARG	133	Helice 
+SER	134	Helice 
+ALA	135	B anti 
+SER	136	B anti 
+GLU	137	B anti 
+VAL	138	Helice 
+ASP	139	Helice 
+ARG	140	Helice 
+MET	141	Helice 
+PHE	142	Coil 
+PRO	143	Coil 
+GLY	144	Turn 
+VAL	145	Coil 
+PRO	146	Coil 
+LEU	147	Coil 
+ASP	148	Coil 
+THR	149	Coil 
+HIS	150	B anti 
+ASP	151	B anti 
+VAL	152	B anti 
+PHE	153	Coil 
+GLN	154	Turn 
+PHE	155	Coil 
+ARG	156	Coil 
+GLU	157	Turn 
+LYS	158	B anti 
+ALA	159	B anti 
+TYR	160	B anti 
+PHE	161	B anti 
+CYS	162	Turn 
+GLN	163	Coil 
+ASP	164	B anti 
+ARG	165	B anti 
+PHE	166	B anti 
+TYR	167	B anti 
+TRP	168	B anti 
+ARG	169	B anti 
+VAL	170	B anti 
+SER	171	Coil 
+SER	172	Turn 
+ARG	173	Coil 
+SER	174	Coil 
+GLU	175	Turn 
+LEU	176	Coil 
+ASN	177	B anti 
+GLN	178	B anti 
+VAL	179	B anti 
+ASP	180	B anti 
+GLN	181	B anti 
+VAL	182	B anti 
+GLY	183	B anti 
+TYR	184	B anti 
+VAL	185	Coil 
+THR	186	Coil 
+TYR	187	Helice 
+ASP	188	Helice 
+ILE	189	Coil 
+LEU	190	Coil 
+GLN	191	Turn 
+CYS	192	Coil 
+PRO	193	Coil 
+GLU	194	Coil 
+ASP	195	Coil 

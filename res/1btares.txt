@@ -1,0 +1,103 @@
+==== Secondary Structure Assignment using DSSP method ====
+DATE		2021-09-14
+REFERENCE	W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637
+PROTEINE	1bta
+CHAINE		A
+
+Secondary structures assignment
+ 1.helices (Helice) 
+ 2. feuillet β parallèle  (B para) 
+ 3. feuillet β anti-parallèle (B anti) 
+ 4. n-turns (Turn) 
+ 5. coil (Coil) 
+ 
+RESIDUE AA STRUCTURE
+LYS	1	Coil 
+LYS	2	B para 
+ALA	3	B para 
+VAL	4	B para 
+ILE	5	Turn 
+ASN	6	Coil 
+GLY	7	Coil 
+GLU	8	Helice 
+GLN	9	Helice 
+ILE	10	Helice 
+ARG	11	Helice 
+SER	12	Helice 
+ILE	13	Helice 
+SER	14	Helice 
+ASP	15	Helice 
+LEU	16	Helice 
+HIS	17	Helice 
+GLN	18	Helice 
+THR	19	Helice 
+LEU	20	Helice 
+LYS	21	Helice 
+LYS	22	Helice 
+GLU	23	Helice 
+LEU	24	Helice 
+ALA	25	Helice 
+LEU	26	Helice 
+PRO	27	Coil 
+GLU	28	Coil 
+TYR	29	Turn 
+TYR	30	Coil 
+GLY	31	Coil 
+GLU	32	Helice 
+ASN	33	Helice 
+LEU	34	Helice 
+ASP	35	Helice 
+ALA	36	Helice 
+LEU	37	Helice 
+TRP	38	Helice 
+ASP	39	Helice 
+CYS	40	Helice 
+LEU	41	Helice 
+THR	42	Helice 
+GLY	43	Coil 
+TRP	44	Turn 
+VAL	45	Coil 
+GLU	46	Coil 
+TYR	47	Coil 
+PRO	48	B anti 
+LEU	49	Coil 
+VAL	50	B para 
+LEU	51	B para 
+GLU	52	B para 
+TRP	53	B para 
+ARG	54	Helice 
+GLN	55	Helice 
+PHE	56	Helice 
+GLU	57	Helice 
+GLN	58	B anti 
+SER	59	Helice 
+LYS	60	Helice 
+GLN	61	Helice 
+LEU	62	Helice 
+THR	63	Helice 
+GLU	64	Helice 
+ASN	65	Helice 
+GLY	66	B anti 
+ALA	67	Helice 
+GLU	68	Helice 
+SER	69	Helice 
+VAL	70	Helice 
+LEU	71	Helice 
+GLN	72	Helice 
+VAL	73	Helice 
+PHE	74	Helice 
+ARG	75	Helice 
+GLU	76	Helice 
+ALA	77	Helice 
+LYS	78	Helice 
+ALA	79	Helice 
+GLU	80	Helice 
+GLY	81	Helice 
+CYS	82	Coil 
+ASP	83	Coil 
+ILE	84	B anti 
+THR	85	Coil 
+ILE	86	B para 
+ILE	87	B para 
+LEU	88	B para 
+SER	89	Coil 
